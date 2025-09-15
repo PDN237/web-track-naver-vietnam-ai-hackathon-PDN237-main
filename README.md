@@ -29,7 +29,7 @@ npm run build
 The application will be available at `http://localhost:5173`
 
 ## 🔗 Live Demo
-[Vercel Deployment](https://web-track-naver-vietnam-ai-hackathon-pdn237-main.vercel.app/)
+[Vercel Deployment](https://web-track-naver-vietnam-ai-hackatho-git-065ae7-pdn237s-projects.vercel.app/)
 
 ## 🎥 Demo Video
 [Demo Video Link](https://youtu.be/yEZrtL_u3OE) 
